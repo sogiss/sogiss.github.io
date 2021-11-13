@@ -1,0 +1,62 @@
+body{
+    background-color: #92e3a9;
+}
+#g3{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #263238;
+}
+#g4{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #263238;
+}
+#g5{
+    font-size: 40px;
+    font-family: sans-serif;
+    color: #263238;
+}
+#g6{
+    width: 350px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: #263238;
+    color: white;
+    font-size: 60px;
+    border: 3px solid #263238;
+}
+#name_1{
+    width: 700px;
+    height: 75px;
+    border: 7px solid black;
+
+}
+#family_2{
+    width: 700px;
+    height: 75px;
+    border: 7px solid black;
+}
+#mobile_3{
+    width: 700px;
+    height: 75px;
+    border: 7px solid black;
+}
+#family_4{
+    width: 700px;
+    height: 75px;
+    border: 7px solid black;
+}
+#h2{
+    font-size: 80px;
+    font-family:inherit;
+    text-align: center;
+    margin-top: 300px;
+}
+#family_5{
+    width: 700px;
+    height: 75px;
+    border: 7px solid black;
+}
+input{
+    font-size: 40px;
+}
